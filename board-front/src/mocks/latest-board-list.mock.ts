@@ -1,0 +1,66 @@
+import { BoardListItem } from "types/interface";
+
+const latestBoardListMock: BoardListItem[] = [
+    {
+        boardNumber: 1,
+        title: "오늘 저녁 뭐 먹지? 고민 끝내줄 맛집 추천 부탁해요!",
+        content: "오늘 저녁은 특별히 외식할까 고민 중인데요, 맛있고 분위기 좋은 맛집 추천 좀 해주세요. 친구랑 가려구요!",
+        boardTitleImage: 'https://picsum.photos/200/300?grayscale',
+        favoriteCount: 0,
+        commentCount: 0,
+        viewCount: 0,
+        writeDatetime: "2023.08.18. 00:54:27",
+        writerNickname: "안녕하세요나는주코야키",
+        writerProfileImage: 'https://picsum.photos/id/237/200/300',
+    },
+    {
+        boardNumber: 1,
+        title: "오늘 저녁 뭐 먹지? 고민 끝내줄 맛집 추천 부탁해요!",
+        content: "오늘 저녁은 특별히 외식할까 고민 중인데요, 맛있고 분위기 좋은 맛집 추천 좀 해주세요. 친구랑 가려구요!",
+        boardTitleImage: null,
+        favoriteCount: 0,
+        commentCount: 0,
+        viewCount: 0,
+        writeDatetime: "2023.08.18. 00:54:27",
+        writerNickname: "안녕하세요나는주코야키",
+        writerProfileImage: null,
+    },
+    {
+        boardNumber: 1,
+        title: "오늘 저녁 뭐 먹지? 고민 끝내줄 맛집 추천 부탁해요!",
+        content: "오늘 저녁은 특별히 외식할까 고민 중인데요, 맛있고 분위기 좋은 맛집 추천 좀 해주세요. 친구랑 가려구요!",
+        boardTitleImage: null,
+        favoriteCount: 0,
+        commentCount: 0,
+        viewCount: 0,
+        writeDatetime: "2023.08.18. 00:54:27",
+        writerNickname: "안녕하세요나는주코야키",
+        writerProfileImage: null,
+    },
+    {
+        boardNumber: 1,
+        title: "오늘 저녁 뭐 먹지? 고민 끝내줄 맛집 추천 부탁해요!",
+        content: "오늘 저녁은 특별히 외식할까 고민 중인데요, 맛있고 분위기 좋은 맛집 추천 좀 해주세요. 친구랑 가려구요!",
+        boardTitleImage: null,
+        favoriteCount: 0,
+        commentCount: 0,
+        viewCount: 0,
+        writeDatetime: "2023.08.18. 00:54:27",
+        writerNickname: "안녕하세요나는주코야키",
+        writerProfileImage: null,
+    },
+    {
+        boardNumber: 1,
+        title: "오늘 저녁 뭐 먹지? 고민 끝내줄 맛집 추천 부탁해요!",
+        content: "오늘 저녁은 특별히 외식할까 고민 중인데요, 맛있고 분위기 좋은 맛집 추천 좀 해주세요. 친구랑 가려구요!",
+        boardTitleImage: null,
+        favoriteCount: 0,
+        commentCount: 0,
+        viewCount: 0,
+        writeDatetime: "2023.08.18. 00:54:27",
+        writerNickname: "안녕하세요나는주코야키",
+        writerProfileImage: null,
+    }
+]
+
+export default latestBoardListMock;
